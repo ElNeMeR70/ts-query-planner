@@ -1,0 +1,20 @@
+{
+  "name": "ts-query-planner",
+  "version": "1.0.0",
+  "description": "SQL query planner with cost-based optimizer and index selection",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "query-planner", "sql", "database", "optimization"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-query-planner.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
